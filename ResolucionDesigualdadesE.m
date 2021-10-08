@@ -30,4 +30,14 @@ plot([0 0],[-20 30], 'k-',"linewidth",3)
 
 x = -20:0.01:11;
 y = x + 2;
-plot(x,y,"linewidth",2) )
+plot(x,y,"linewidth",2) 
+
+x = -100:1:100;
+f = 'x.^2 + 3';
+fplot(f,"linewidth",2);
+
+x = -100:1:100;
+y2 = abs(x) < 5;
+plot(x,y2,"linewidth",2)
+
+hold off
