@@ -7,7 +7,7 @@
 % Date           :20211007
 % Version        :1
 % Usage          :octave> cd /path/
-%                :octave> ResolucionDesigualdades
+%                :octave> ResolucionDesigualdadesE
 % Notes          :Requiere aplicacion octave
 %   
 syms x
