@@ -4,8 +4,8 @@
 %                 posible de un libro 
 % Author         :Hector Daniel Marmoleo Garcia 
 %                :Gustavo Garcia Barrera
-%                :
-% Date           :20211013
+%                :Ximena Mayleth Cruz Cruz
+% Date           :20211014
 % Version        :1
 % Usage          :octave> cd /path/
 %                :octave> FuncionLibro
