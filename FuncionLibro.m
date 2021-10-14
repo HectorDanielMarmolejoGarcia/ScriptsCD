@@ -32,7 +32,7 @@ resr = max(ax);
 % Calcular el valor x 
 % Para esto decimos que A'(x) = -6 + 2400/x^2 = 0
 % Por lo tamto x^2 = 2400/6 = 400
-% Y despejando a x nosqueda que de la siguinete manera: x = ?400 = 20
+% Y despejando a x nosqueda que de la siguinete manera: x = √400 = 20
 disp ('SOLUCION: ');
 disp ('El valor de x(Ancho de la pagina) es: ');
 X = sqrt(400)
