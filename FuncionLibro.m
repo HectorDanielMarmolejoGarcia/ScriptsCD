@@ -3,7 +3,7 @@
 % Descripcion    :Script para resolver la funcion de la mayor area impresa
 %                 posible de un libro 
 % Author         :Hector Daniel Marmoleo Garcia 
-%                :
+%                :Gustavo Garcia Barrera
 %                :
 % Date           :20211013
 % Version        :1
@@ -11,7 +11,7 @@
 %                :octave> FuncionLibro
 % Notes          :Requiere aplicacion octave
 
-% Limpiar varibles 
+% Limpiar variables 
 clear
 % Titulo
 disp ('PROBLEMA NUMERO 7.- "El libro"');
